@@ -1,0 +1,11 @@
+{
+    "home_location": "Beverly Hills, California",
+    "music_enabled": true,
+    "music_volume": 35,
+    "ui_mode": "modern",
+    "radar_enabled": true,
+    "radar_refresh_ms": 300000,
+    "temperature_unit": "F",
+    "ticker_speed_ms": 120,
+    "description_mode": "funny"
+}
