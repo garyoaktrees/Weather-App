@@ -16,7 +16,7 @@ A desktop weather app built with Python and PySide6.
 - `main.py` - app entry point
 - `app/` - main application code
 - `data/` - city data
-- `assets/` - icons, alerts, and images
+- `icons/`, `images/`, `alerts/` - visual assets
 
 ## Tech Used
 
