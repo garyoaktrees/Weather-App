@@ -1,0 +1,22 @@
+[
+    {"city": "Portland", "state": "ME", "state_name": "Maine", "lat": 43.6615, "lon": -70.2553, "zip": "04101"},
+    {"city": "Portland", "state": "OR", "state_name": "Oregon", "lat": 45.5152, "lon": -122.6784, "zip": "97201"},
+    {"city": "Springfield", "state": "IL", "state_name": "Illinois", "lat": 39.7817, "lon": -89.6501, "zip": "62701"},
+    {"city": "Springfield", "state": "MA", "state_name": "Massachusetts", "lat": 42.1015, "lon": -72.5898, "zip": "01103"},
+    {"city": "Springfield", "state": "MO", "state_name": "Missouri", "lat": 37.2089, "lon": -93.2923, "zip": "65806"},
+    {"city": "Springfield", "state": "VA", "state_name": "Virginia", "lat": 38.7893, "lon": -77.1872, "zip": "22150"},
+    {"city": "Fairfax", "state": "VA", "state_name": "Virginia", "lat": 38.8462, "lon": -77.3064, "zip": "22030"},
+    {"city": "Manassas", "state": "VA", "state_name": "Virginia", "lat": 38.7509, "lon": -77.4753, "zip": "20110"},
+    {"city": "New York", "state": "NY", "state_name": "New York", "lat": 40.7128, "lon": -74.0060, "zip": "10001"},
+    {"city": "Los Angeles", "state": "CA", "state_name": "California", "lat": 34.0522, "lon": -118.2437, "zip": "90001"},
+    {"city": "Chicago", "state": "IL", "state_name": "Illinois", "lat": 41.8781, "lon": -87.6298, "zip": "60601"},
+    {"city": "Houston", "state": "TX", "state_name": "Texas", "lat": 29.7604, "lon": -95.3698, "zip": "77001"},
+    {"city": "Phoenix", "state": "AZ", "state_name": "Arizona", "lat": 33.4484, "lon": -112.0740, "zip": "85001"},
+    {"city": "Philadelphia", "state": "PA", "state_name": "Pennsylvania", "lat": 39.9526, "lon": -75.1652, "zip": "19019"},
+    {"city": "San Antonio", "state": "TX", "state_name": "Texas", "lat": 29.4241, "lon": -98.4936, "zip": "78201"},
+    {"city": "San Diego", "state": "CA", "state_name": "California", "lat": 32.7157, "lon": -117.1611, "zip": "92101"},
+    {"city": "Dallas", "state": "TX", "state_name": "Texas", "lat": 32.7767, "lon": -96.7970, "zip": "75201"},
+    {"city": "San Jose", "state": "CA", "state_name": "California", "lat": 37.3382, "lon": -121.8863, "zip": "95101"},
+    {"city": "Austin", "state": "TX", "state_name": "Texas", "lat": 30.2672, "lon": -97.7431, "zip": "73301"},
+    {"city": "Jacksonville", "state": "FL", "state_name": "Florida", "lat": 30.3322, "lon": -81.6557, "zip": "32099"}
+]
